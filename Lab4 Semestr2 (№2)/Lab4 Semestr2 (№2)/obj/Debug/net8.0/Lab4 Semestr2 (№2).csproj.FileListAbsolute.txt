@@ -1,0 +1,14 @@
+D:\Лабы прога\2 семестр\Л4\Lab4 Semestr2 (№2)\Lab4 Semestr2 (№2)\bin\Debug\net8.0\Lab4 Semestr2 (№2).exe
+D:\Лабы прога\2 семестр\Л4\Lab4 Semestr2 (№2)\Lab4 Semestr2 (№2)\bin\Debug\net8.0\Lab4 Semestr2 (№2).deps.json
+D:\Лабы прога\2 семестр\Л4\Lab4 Semestr2 (№2)\Lab4 Semestr2 (№2)\bin\Debug\net8.0\Lab4 Semestr2 (№2).runtimeconfig.json
+D:\Лабы прога\2 семестр\Л4\Lab4 Semestr2 (№2)\Lab4 Semestr2 (№2)\bin\Debug\net8.0\Lab4 Semestr2 (№2).dll
+D:\Лабы прога\2 семестр\Л4\Lab4 Semestr2 (№2)\Lab4 Semestr2 (№2)\bin\Debug\net8.0\Lab4 Semestr2 (№2).pdb
+D:\Лабы прога\2 семестр\Л4\Lab4 Semestr2 (№2)\Lab4 Semestr2 (№2)\obj\Debug\net8.0\Lab4 Semestr2 (№2).GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабы прога\2 семестр\Л4\Lab4 Semestr2 (№2)\Lab4 Semestr2 (№2)\obj\Debug\net8.0\Lab4 Semestr2 (№2).AssemblyInfoInputs.cache
+D:\Лабы прога\2 семестр\Л4\Lab4 Semestr2 (№2)\Lab4 Semestr2 (№2)\obj\Debug\net8.0\Lab4 Semestr2 (№2).AssemblyInfo.cs
+D:\Лабы прога\2 семестр\Л4\Lab4 Semestr2 (№2)\Lab4 Semestr2 (№2)\obj\Debug\net8.0\Lab4 Semestr2 (№2).csproj.CoreCompileInputs.cache
+D:\Лабы прога\2 семестр\Л4\Lab4 Semestr2 (№2)\Lab4 Semestr2 (№2)\obj\Debug\net8.0\Lab4 Semestr2 (№2).dll
+D:\Лабы прога\2 семестр\Л4\Lab4 Semestr2 (№2)\Lab4 Semestr2 (№2)\obj\Debug\net8.0\refint\Lab4 Semestr2 (№2).dll
+D:\Лабы прога\2 семестр\Л4\Lab4 Semestr2 (№2)\Lab4 Semestr2 (№2)\obj\Debug\net8.0\Lab4 Semestr2 (№2).pdb
+D:\Лабы прога\2 семестр\Л4\Lab4 Semestr2 (№2)\Lab4 Semestr2 (№2)\obj\Debug\net8.0\Lab4 Semestr2 (№2).genruntimeconfig.cache
+D:\Лабы прога\2 семестр\Л4\Lab4 Semestr2 (№2)\Lab4 Semestr2 (№2)\obj\Debug\net8.0\ref\Lab4 Semestr2 (№2).dll
